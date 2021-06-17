@@ -1,0 +1,9 @@
+.moods-list {
+  list-style: none;
+  padding: 0;
+}
+
+.moods-list__fallback {
+  color: white;
+  text-align: center;
+}
